@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   portfolio:
     title: "Portfolio"
@@ -68,7 +68,7 @@ es: &DEFAULT_ES
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
     button: Ver más
-    buttonlink: "#servicios"
+    buttonlink: "#portfolio"
 
   portfolio:
     title: "Portafolio"
