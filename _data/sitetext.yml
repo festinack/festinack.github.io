@@ -48,8 +48,8 @@ en: &DEFAULT_EN
     social:
       - url: https://www.instagram.com/arianmisini/
         icon: "fab fa-instagram"
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
+      - url: https://www.tiktok.com/@arianmisinii
+        icon: "fab fa-tiktok"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
 en-US:
